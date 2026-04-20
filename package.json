@@ -1,0 +1,12 @@
+{
+  "name": "capsgain-proxy",
+  "version": "1.0.0",
+  "description": "Proxy server for Capsgain dashboard - fetches Zoho sheets server-side",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}
